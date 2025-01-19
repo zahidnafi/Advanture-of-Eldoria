@@ -1,7 +1,7 @@
 [
 null,
 {"id":1,"battlerName":"Aruna_Eldoria_Battler","characterIndex":0,"characterName":"1Eldoria_Actor_Walk","classId":1,"equips":[1,1,2,3,0],"faceIndex":0,"faceName":"Eldoria_Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Aruna","nickname":"Aruna","note":"","profile":""},
-{"id":2,"battlerName":"Kirana_Eldoria_Battler","characterIndex":3,"characterName":"1Eldoria_Actor_Walk","classId":3,"equips":[3,0,2,3,0],"faceIndex":3,"faceName":"Eldoria_Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kirana","nickname":"Kirana","note":"","profile":""},
-{"id":3,"battlerName":"Selene_Eldoria_Battler","characterIndex":1,"characterName":"1Eldoria_Actor_Walk","classId":4,"equips":[4,0,2,3,4],"faceIndex":1,"faceName":"Eldoria_Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Selene","nickname":"Selene","note":"","profile":""},
-{"id":4,"battlerName":"Tarin_Eldoria_Battler","characterIndex":2,"characterName":"1Eldoria_Actor_Walk","classId":2,"equips":[2,1,2,3,4],"faceIndex":2,"faceName":"Eldoria_Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tarin","nickname":"Tarin","note":"","profile":""}
+{"id":2,"battlerName":"Kirana_Eldoria_Battler","characterIndex":3,"characterName":"1Eldoria_Actor_Walk","classId":3,"equips":[5,0,2,3,4],"faceIndex":3,"faceName":"Eldoria_Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Kirana","nickname":"Kirana","note":"","profile":""},
+{"id":3,"battlerName":"Selene_Eldoria_Battler","characterIndex":1,"characterName":"1Eldoria_Actor_Walk","classId":4,"equips":[3,0,2,3,4],"faceIndex":1,"faceName":"Eldoria_Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Selene","nickname":"Selene","note":"","profile":""},
+{"id":4,"battlerName":"Tarin_Eldoria_Battler","characterIndex":2,"characterName":"1Eldoria_Actor_Walk","classId":2,"equips":[8,1,2,3,4],"faceIndex":2,"faceName":"Eldoria_Actor4","traits":[],"initialLevel":1,"maxLevel":99,"name":"Tarin","nickname":"Tarin","note":"","profile":""}
 ]
